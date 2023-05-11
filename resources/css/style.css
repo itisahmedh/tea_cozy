@@ -21,6 +21,9 @@ header {
     border-bottom: 1px solid seashell;
     justify-content: space-between;
     align-items: center;
+    position: fixed;
+    width: 100%;
+    background-color: black;
 }
 
 header img {
