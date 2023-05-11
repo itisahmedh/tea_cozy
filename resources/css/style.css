@@ -133,6 +133,15 @@ nav li a {
     padding-top: 15px;
     width: 300px;
     background-color: rgba(0, 0, 0, 1);
+    margin-right: 40px;
+}
+
+.location h3 {
+    padding-bottom: 25px;
+}
+
+.location p {
+    padding-bottom: 25px;
 }
 
 .places {
